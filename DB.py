@@ -73,3 +73,4 @@ knytt_notat_til_person(2, 2)  # Kari Nordmann har møteplanen
 
 # Vis personer og deres tilknyttede notater
 vis_personer_og_notater()
+        
